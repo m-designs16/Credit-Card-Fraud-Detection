@@ -34,4 +34,4 @@ This project is developed for educational and demonstration purposes. It should 
 
 👨‍💻 Author
 
-Manishi Das.
+Manishi Kumar Das.
