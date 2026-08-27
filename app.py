@@ -16,7 +16,7 @@ legit_sample = legit.sample(n=492)
 
 new_dataset = pd.concat([legit_sample, fraud], axis=0)
 
-X = new_dataset.drop(columns='Class', axis=1)
+X = new_dataset.drop(columns='Class')
 Y = new_dataset['Class']
 
 # ---------------- TRAIN TEST SPLIT ----------------
