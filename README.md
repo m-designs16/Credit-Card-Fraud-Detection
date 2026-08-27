@@ -23,3 +23,15 @@ The project uses **Logistic Regression** for classification and **Streamlit** to
 - Streamlit
 - Jupyter Notebook
 - Git & GitHub
+
+## 🚀 Live Demo
+
+👉 [Try the Credit Card Fraud Detection App](https://credit-card-fraud-detection-arpybs6qpkg3u2yyf6wwzy.streamlit.app/)
+
+⚠️ Disclaimer
+
+This project is developed for educational and demonstration purposes. It should not be used as a production fraud detection system without further validation, security measures, and real-world testing.
+
+👨‍💻 Author
+
+Manishi Das.
