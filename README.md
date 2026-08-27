@@ -26,7 +26,7 @@ The project uses **Logistic Regression** for classification and **Streamlit** to
 
 ## 🚀 Live Demo
 
-👉 [Try the Credit Card Fraud Detection App](https://credit-card-fraud-detection-arpybs6qpkg3u2yyf6wwzy.streamlit.app/)
+👉 [Try the Credit Card Fraud Detection App](https://credit-card-fraud-detection-arpybs6qpkg3u2yyf6vwzy.streamlit.app/)
 
 ⚠️ Disclaimer
 
